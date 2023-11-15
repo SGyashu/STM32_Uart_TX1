@@ -43,9 +43,6 @@ PC5 - USART 3_RX
 Once you created the project and enabled the GPIO (PB7) and UART3 (PC4 and PC5), now we will have the auto generated code.It will open the main.c file in this working space we have to implement our code.
 —> In main.c use the printf that will be redirected to the UART3.
 
-![image](https://github.com/DLinIoTedge/Harpy/assets/144312729/17545e33-d311-4759-a65c-864271655c87)
-
-
 ## 4.  Connect Target Nucleo Board with UART 
 
 UART_TX using the POLL method
